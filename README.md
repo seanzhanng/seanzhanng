@@ -2,4 +2,4 @@
 
 🎓 Computer Science @ University of Waterloo 
 
-🎯 Interested in applied mle, data systems, and distributed computing
+🎯 Interested in systems programming and infrastructure
