@@ -2,4 +2,4 @@
 
 🎓 Computer Science @ University of Waterloo 
 
-🎯 Interested in applied mle, data systems, and distributed computing
+⚡ I work on fast systems and infrastructure
